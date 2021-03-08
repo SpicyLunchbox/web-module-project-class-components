@@ -1,0 +1,10 @@
+.task {
+    cursor: pointer;
+    font-weight: bold;
+}
+.taskcompleted {
+    font-weight: normal;
+    text-decoration: line-through;
+    border-radius: 20px;
+    padding:0 1rem;
+}
